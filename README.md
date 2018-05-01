@@ -3,8 +3,8 @@ SMU Digital Humanities project to visualize the imaginary distances of award-win
 
 Contributors to this project:
 
-Haley Hiers
+Haley Hiers - PhD Literature candidate
 
-Kali Ruppert
+Kali Ruppert - Creative Computation Major
 
-Jordan Silver
+Jordan Silver - Creative Computation Major
